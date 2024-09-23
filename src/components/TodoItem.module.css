@@ -1,0 +1,16 @@
+.kg-row{
+  margin: 10px 5px;
+}
+
+.marginnew{
+  margin-left: 30%;
+}
+@media screen and (max-width:768px){
+  .marginnew{
+    margin-right: 20%;
+  }
+}
+
+.kg-button{
+  min-width: 80px;
+}
